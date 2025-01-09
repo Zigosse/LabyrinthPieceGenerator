@@ -6,9 +6,11 @@
 
 ### Géneration
 
-- 3 Formes de pieces differentes : I / T / L
-- 24 Trésors differents
-- 75 Posibilité
+- 3 formes de pieces differentes : I / T / L
+- 24 trésors differents
+- Rotation aléatoire
+- 75 possibilité + rotation
+
 Donées cachées :
 - Possibilité de bouger la pièce -> True ou False
 - Presence d'un pion -> False ou Rouge/Vert/Bleu/Jaune
